@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0029/X/v1
+canonical_location: https://kanripo.org/bkk/KR6o0029/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明入正理論直解
+  identifiers:
+    krp: KR6o0029
+    cbeta: X53n0859
+    cbeta_old_id: X53n0859
+    authorityid: CA0003774
+    json_key: X0859
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0859.xml
+    old_id: X53n0859
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0029_000-X.yaml, hash: 'sha256:7eaecf6886c54d73e20740ea5ff2738a8ba3a71286e52fcf78e9c328a0b3771e'}
+  - {seq: 1, filename: KR6o0029_001-X.yaml, hash: 'sha256:a5f48f8ea99f80d49abff6a078ba40810dba478f89b73b7fc4eeef07ae91515c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0029_000-X.markers.yaml, hash: 'sha256:ea87d56505f829a72428f6aca10daea2213e33877354515cd8804b94cf19523e'}
+  - {seq: 1, role: markers, filename: assets/KR6o0029_001-X.markers.yaml, hash: 'sha256:de743feda0395a74aad1d59f945e4b32a852bc9c4444ac1d1fc6c3d8818b6b8b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0029_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10514
+  label: 因明入正理論直解
+  type: juan
+  level: 1
+hash: sha256:4a5d32dc451ab96f98e543bdf5f77446e2eb098a70a57ae41d154a59f8716618
