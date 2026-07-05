@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0029_000.yaml, hash: 'sha256:7eaecf6886c54d73e20740ea5ff2738a8ba3a71286e52fcf78e9c328a0b3771e'}
-  - {seq: 1, filename: KR6o0029_001.yaml, hash: 'sha256:e52c47cde45c9d331cc623b7dc1772195c0512f497174e30274710b6f7dd6edb'}
+  - {seq: 1, filename: KR6o0029_001.yaml, hash: 'sha256:a5f48f8ea99f80d49abff6a078ba40810dba478f89b73b7fc4eeef07ae91515c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0029_001.markers.yaml, hash: 'sha256:d62e2e359dacec0e8d1fa0c0aa92532720fb7020730fdd0e25e541d9c10e1cc4'}
+  - {seq: 0, role: markers, filename: assets/KR6o0029_000.markers.yaml, hash: 'sha256:731f6eb7170c41b7c743375b0648e3be55d4b70d411a9834212cf4c45fb6bf7d'}
+  - {seq: 1, role: markers, filename: assets/KR6o0029_001.markers.yaml, hash: 'sha256:3785c95173b5a63e89486776d43cac272d97d1c5abd8f61118bea95b81345ec9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 因明入正理論直解
   type: juan
   level: 1
-hash: sha256:4863a4fa61dacea5eb106384b6b3fc7e3770763a6606bf20bd7796a817b59f33
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0708615f58a84cf6c836d6d4db63d284b3e02364f09450e4dd6f72f244632b91
