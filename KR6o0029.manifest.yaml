@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0029/v1
 canonical_location: https://kanripo.org/bkk/KR6o0029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 因明入正理論直解
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0029_000.yaml, hash: 'sha256:7eaecf6886c54d73e20740ea5ff2738a8ba3a71286e52fcf78e9c328a0b3771e'}
-  - {seq: 1, filename: KR6o0029_001.yaml, hash: 'sha256:a5f48f8ea99f80d49abff6a078ba40810dba478f89b73b7fc4eeef07ae91515c'}
+  - {seq: 1, filename: KR6o0029_001.yaml, hash: 'sha256:0fdcb877f1abfa90e693f0313de15455191580112689d0c5f8513ca75bef6de5'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0029_000.markers.yaml, hash: 'sha256:731f6eb7170c41b7c743375b0648e3be55d4b70d411a9834212cf4c45fb6bf7d'}
-  - {seq: 1, role: markers, filename: assets/KR6o0029_001.markers.yaml, hash: 'sha256:3785c95173b5a63e89486776d43cac272d97d1c5abd8f61118bea95b81345ec9'}
+  - {seq: 1, role: markers, filename: assets/KR6o0029_001.markers.yaml, hash: 'sha256:b0edd2556227e3707f865fbbed4ecaec4bee87d26b7d9698eff56e859461095d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 因明入正理論直解
   type: juan
   level: 1
-hash: sha256:0708615f58a84cf6c836d6d4db63d284b3e02364f09450e4dd6f72f244632b91
+hash: sha256:0c060f2fb724006035b682d67d2501b67d04c97f35d3bff83bf8c3391dd1a563
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
